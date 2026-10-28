@@ -1,0 +1,4 @@
+evil-*.bin
+build/
+__pycache__/
+*.log
